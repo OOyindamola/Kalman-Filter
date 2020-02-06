@@ -1,6 +1,6 @@
 '''
 Created on Feb 5, 2020
-@author: oyindamola omotuyi
+@author: Oyindamola Omotuyi
 
 Kalman Filter Algorithm for a one dimensional target tracking problem
 
